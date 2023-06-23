@@ -1093,7 +1093,7 @@ const searchQuery = prompt("Enter last name of keeper:");
 const results = search(searchQuery);
 const searchQuery2 = prompt("Enter last name of keeper:");
 const results2 = search(searchQuery2);
-const headerNames = ['Age', 'Team', 'Successful defensive actions', 'Aerial duels contested', 'Exits (leaving line)', 'Passes', 'Long pass %', 'Short and medium pass %', 'Prevented goals', 'Minutes played'];
+const headerNames = ['Age', 'Team', 'Successful defensive actions', 'Aerial duels contested', 'Exits (leaving line)', 'Passes', 'Long pass %', 'Short and medium pass %', 'PSxG - GA', 'Minutes played'];
 
 const table = document.createElement('table');
 
@@ -1269,7 +1269,7 @@ document.body.appendChild(table2);
 
 <g class="radar_label" data-type=“Def Actions” data-idx="2"><text class="label" transform="translate(354.56 182.26) rotate(100.11)">Def Actions</text></g>
 
-<g class="radar_label" data-type="Prevented G" data-idx="1"><text class="label" transform="translate(285.42 62.68) rotate(48.09)">Prevented G</text></g></svg>
+<g class="radar_label" data-type="Shotstopping" data-idx="1"><text class="label" transform="translate(285.42 61.08) rotate(49.49)">Shot-stopping</text></g></svg>
   							
 
 
