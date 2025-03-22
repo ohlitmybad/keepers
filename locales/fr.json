@@ -1,0 +1,42 @@
+{
+  "header": {
+    "home": "Accueil",
+    "pro": "Pro",
+    "guide": "Guide"
+  },
+  "search": {
+    "placeholder": "Chercher une équipe ou joueur...",
+    "placeholder2": "Chercher un gardien..."
+  },
+  "table": {
+    "percentiles": "Centiles",
+    "age": "Âge",
+    "short": "Court%",
+    "long": "Long%",
+    "passes": "Passes",
+    "exits": "Sorties",
+    "aerial": "Duels aériens",
+    "defActions": "Actions déf",
+    "shotstopping": "Buts empêchés",
+    "minutes": "Minutes jouées"
+  },
+  "radar": {
+    "short": "Court%",
+    "long": "Long%",
+    "passes": "Passes",
+    "exits": "Sorties",
+    "aerial": "Aériens",
+    "defActions": "Actions Déf",
+    "shotstopping": "Buts Empêchés"
+  },
+  "buttons": {
+    "team": "Équipe"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  },
+  "meta": {
+    "title": "DataMB | Comparer les gardiens",
+    "description": "Comparez les statistiques des gardiens dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les arrêts; PSxG; centres captés; balayage; précision des passes; précision des passes longues et plus pour les gardiens en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  }
+} 
