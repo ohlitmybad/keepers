@@ -38,5 +38,13 @@
   "meta": {
     "title": "DataMB | Comparer les gardiens",
     "description": "Comparez les statistiques des gardiens dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les arrêts; PSxG; centres captés; balayage; précision des passes; précision des passes longues et plus pour les gardiens en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  },
+  "positions": {
+    "goalkeeper": "Gardien",
+    "centreback": "Défenseur",
+    "fullback": "Latéral",
+    "midfielder": "Milieu",
+    "winger": "Ailier",
+    "striker": "Buteur"
   }
 } 
