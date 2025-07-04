@@ -11,23 +11,23 @@
   "table": {
     "percentiles": "Centiles",
     "age": "Âge",
-    "short": "Court%",
+    "passes": "Passes cmp",
     "long": "Long%",
-    "passes": "Passes",
-    "exits": "Sorties",
-    "aerial": "Duels aériens",
-    "defActions": "Actions déf",
-    "shotstopping": "Buts empêchés",
-    "minutes": "Minutes jouées"
+    "short": "Court%",
+    "save": "% Arrêts",
+    "prevented": "PSxG-GA",
+    "aerial": "Aériens gagnés",
+    "int": "Int (PAdj)",
+    "minutes": "Minutes"
   },
   "radar": {
     "short": "Court%",
     "long": "Long%",
     "passes": "Passes",
-    "exits": "Sorties",
+    "int": "Interceptions",
     "aerial": "Aériens",
-    "defActions": "Actions Déf",
-    "shotstopping": "Buts Empêchés"
+    "save": "% Arrêts",
+    "prevented": "PSxG-GA"
   },
   "buttons": {
     "team": "Équipe"
@@ -37,7 +37,7 @@
   },
   "meta": {
     "title": "DataMB | Comparer les gardiens",
-    "description": "Comparez les statistiques des gardiens dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer les arrêts; PSxG; centres captés; balayage; précision des passes; précision des passes longues et plus pour les gardiens en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+    "description": "Comparez les statistiques des gardiens dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires. Utilisez notre outil radar pour comparer le pourcentage d'arrêts; PSxG; centres captés; balayage; précision des passes; précision des passes longues et plus pour les gardiens en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
   },
   "positions": {
     "goalkeeper": "Gardien",
@@ -46,5 +46,11 @@
     "midfielder": "Milieu",
     "winger": "Ailier",
     "striker": "Buteur"
+  },
+  "footer": {
+    "rights": "© Tous droits réservés",
+    "privacy": "Confidentialité",
+    "contact": "Contact",
+    "about": "À propos"
   }
-} 
+}
