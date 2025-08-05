@@ -12,7 +12,7 @@
     "percentiles": "Yüzdelikler",
     "age": "Yaş",
     "save": "Kurtarış%",
-    "aerial": "Kazanılan hava topları",
+    "aerial": "Hava kazanma",
     "int": "Müdahale (PAdj)",
     "passes": "Paslar",
     "long": "Uzun%",
@@ -25,7 +25,7 @@
     "long": "Uzun%",
     "passes": "Paslar",
     "int": "Müdahaleler",
-    "aerial": "Kazanılan hava topları",
+    "aerial": "Hava kazanma",
     "save": "Kurtarış%",
     "prevented": "PSxG-GA"
   },
