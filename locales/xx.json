@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Home",
+    "pro": "Pro",
+    "guide": "Guide"
+  },
+  "search": {
+    "placeholder": "Enter a team or player name...",
+    "placeholder2": "Enter name of keeper..."
+  },
+  "table": {
+    "percentiles": "Percentiles",
+    "age": "Age",
+    "save": "Save%",
+    "aerial": "Aerials won",
+    "int": "Int (PAdj)",
+    "passes": "Passes cmp",
+    "long": "Long%",
+    "short": "Short%",
+    "prevented": "PSxG-GA",
+    "minutes": "Minutes"
+  },
+  "radar": {
+    "short": "Short%",
+    "long": "Long%",
+    "passes": "Passes",
+    "int": "Interceptions",
+    "aerial": "Aerials won",
+    "save": "Save%",
+    "prevented": "PSxG-GA"
+  },
+  "buttons": {
+    "team": "Team"
+  },
+  "similar": {
+    "to": "Similar data to"
+  },
+  "meta": {
+    "title": "DataMB | Compare Goalkeepers",
+    "description": "Compare goalkeeper statistics in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare shot-stopping with prevented goals (PSxG-GA); sweeping and interceptions; aerial duels won; save rate percentage; passes completed; long and short pass accuracy and more for goalkeepers in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  },
+  "positions": {
+    "goalkeeper": "Goalkeeper",
+    "centreback": "Centre-back",
+    "fullback": "Full-back",
+    "midfielder": "Midfielder",
+    "winger": "Winger",
+    "striker": "Striker"
+  },
+  "footer": {
+    "rights": "© All Rights Reserved",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "about": "About"
+  }
+}
