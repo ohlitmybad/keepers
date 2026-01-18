@@ -44,9 +44,6 @@ if (width <= 770) {
 <script>
     window.ezstandalone = window.ezstandalone || {};
     ezstandalone.cmd = ezstandalone.cmd || [];
-		    ezstandalone.cmd.push(function () {
-        ezstandalone.showAds();
-    });
 </script>
 
 	
@@ -66,7 +63,11 @@ if (width <= 770) {
 
 
 <body>
-		
+		<script>
+					    ezstandalone.cmd.push(function () {
+        ezstandalone.showAds();
+    });
+		</script>
 	  <div class="dark-mode-toggle" onclick="toggleDarkMode()">
     <div class="toggle-icon"></div>
   </div>
